@@ -1,5 +1,5 @@
 ## Hi there, I am Terence Chen 👋
-I am a 2nd year software developer student learning the world through the lens of a computer
+I am a 2nd year software developer student learning the world through the lens of a computer.
 
 ### Language breakdown
 
