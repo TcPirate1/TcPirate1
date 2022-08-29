@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there, I am Terence Chen 👋
+I am a 2nd year software developer student learning the world through the lens of a computer
 
+### Language breakdown
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me:
 <!--
 **TcPirate1/TcPirate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
