@@ -12,7 +12,7 @@ I am a 2nd year software developer student learning the world through the lens o
 
 - <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
-- 
+- <img>f1a1</img>
 <!--
 **TcPirate1/TcPirate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
