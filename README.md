@@ -6,7 +6,7 @@ I am a software developer student learning the world through the lens of a compu
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 🌱 I’m currently learning:
-- Django
+- Django, Linux (Mint), Git/Github & Salesforce
 
 📫 How to reach me:
 
