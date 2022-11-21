@@ -11,6 +11,7 @@ I am a software developer student learning the world through the lens of a compu
 📫 How to reach me:
 
 - <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="Linkedin Profile" height="30" /></a>
+- <a href="https://trailblazer.me/id/terencedchen" target="blank"><img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Trailblazer Profile" height="30" /></a>
 
 <!--
 **TcPirate1/TcPirate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
