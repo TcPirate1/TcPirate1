@@ -1,14 +1,14 @@
-# Hi there, I am Terence Chen 👋
-Exploring the tech field, starting with Software Dev.
+# Hi there, I am Terence Chen and welcome to my Github profile 👋
+This is where I place my class and personal projects.
 
-I am a current student at Whitecliffe.
+I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 
 ## Language breakdown
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🌱 I’m currently learning:
-- Django
+- Django and web-hosting
 - Salesforce
 - Linux (Mint), Git & Github
 
