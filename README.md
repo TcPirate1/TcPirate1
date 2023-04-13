@@ -3,14 +3,22 @@ This is where I place my class and personal projects.
 
 I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 
+😄 Pronouns: He/Him
+
 ## Language breakdown
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+## 🔭 I’m currently working on
+A Python program to search for and manipulate values in an Excel file. The repo is here: https://github.com/TcPirate1/Excel_Searcher-Python
+
+## 🤔 I’m looking for help with
+Everything haha
+
 ## 🌱 I’m currently learning:
-- Databases and API (mySQL, MongoDB & Postman)
+- Databases and API (MySQL, MongoDB & Postman)
+- Linux (Mint, Manjaro), Git & Github
 - Salesforce
-- Linux (Mint), Git & Github
 
 ## 📫 How to reach me:
 
