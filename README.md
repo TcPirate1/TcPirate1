@@ -9,7 +9,7 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## 🔭 I’m currently working on
+## 🔭 Personal Projects
 A Python program to search for and manipulate values in an Excel file. The repo is here: https://github.com/TcPirate1/Excel_Searcher-Python
 
 ## 🤔 I’m looking for help with
