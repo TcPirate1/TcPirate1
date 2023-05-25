@@ -16,15 +16,16 @@ A Python program to search for and manipulate values in an Excel file. The repo 
 Everything haha
 
 ## 🌱 I’m currently learning:
+- Creating a full-stack website
 - Databases and API (MySQL, MongoDB & Postman)
-- Linux (Mint, Manjaro), Git & Github
-- Salesforce
+- GNU/Linux (Mint, Manjaro)
+- Git & Github
 
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="Linkedin Profile" height="30" /></a>
 <a href="https://trailblazer.me/id/terencedchen" target="blank"><img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Trailblazer Profile" height="30" /></a>
-<a href="https://www.reddit.com/user/Lack0frecipes?utm_medium=android_app&utm_source=share" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30" /></a>
+<a href="https://www.reddit.com/user/Lack0frecipes" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30" /></a>
 
 <!--
 **TcPirate1/TcPirate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
