@@ -10,16 +10,16 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🔭 Personal Projects
-A Python program to search for and manipulate values in an Excel file. The repo is here: https://github.com/TcPirate1/Excel_Searcher-Python
+Looking at starting a website where users can keep track of what cards they want to trade to other people.
 
 ## 🤔 I’m looking for help with
 Everything haha
 
 ## 🌱 I’m currently learning:
-- Creating a full-stack website
-- Databases and API (MySQL, MongoDB & Postman)
-- GNU/Linux (Mint, Manjaro)
-- Git & Github
+- Unit Testing with <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest logo"/>
+- Databases <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"/>
+- <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/>
+- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/> & <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"/>
 
 ## 📫 How to reach me:
 
