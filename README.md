@@ -13,13 +13,13 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 Looking at starting a website where users can keep track of what cards they want to trade to other people.
 
 ## 🤔 I’m looking for help with
-Everything haha
+Solutions to keep track of my card collection 🤔
 
 ## 🌱 I’m currently learning:
-- Unit Testing with <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest logo"/>
+- GUI development with <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp logo"/>
 - Databases <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"/>
-- <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/>
-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/> & <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"/>
+- Manjaro OS <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/>
+- GIT and GitHub <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/> & <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"/>
 
 ## 📫 How to reach me:
 
