@@ -7,7 +7,7 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 
 ## Language breakdown
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🔭 Personal Projects
 Looking at starting a website where users can keep track of what cards they want to trade to other people.
