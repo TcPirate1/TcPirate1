@@ -29,6 +29,7 @@ Solutions to keep track of my card collection 🤔
 <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="Linkedin Profile" height="30" /></a>
 
 <a href="https://stackoverflow.com/users/22069618/tc-neva"><img src="https://stackoverflow.com/users/flair/22069618.png?theme=clean" width="208" height="58" alt="profile for TC_neva at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for TC_neva at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="[CodeWars profile](https://www.codewars.com/users/TcPirate1)"><img src="https://www.codewars.com/users/TcPirate1/badges/micro"></a>
 <!--
 **TcPirate1/TcPirate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
