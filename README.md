@@ -10,14 +10,14 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🔭 Personal Projects
-[C# app to help me manage my card collection](https://github.com/TcPirate1/FFTCG_collection)
+- [C# app to help me manage my card collection](https://github.com/TcPirate1/FFTCG_collection)
+- Arduino Binary Clock
 
 ## 🤔 I’m looking for help with
 Solutions to keep track of my card collection 🤔
 
 ## 🌱 I’m currently learning:
 - GUI development using <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp logo"/>
-- Web development using <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"/>
 - Databases with <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"/> & <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"/>
 - Manjaro OS <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/>
 - GIT and GitHub <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/> & <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"/>
