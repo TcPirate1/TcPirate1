@@ -11,7 +11,7 @@ I am a current student at Whitecliffe and reside in Christchurch, New Zealand.
 
 ## 🔭 Personal Projects
 - [C# app to help me manage my card collection](https://github.com/TcPirate1/FFTCG_collection)
-- Arduino Binary Clock
+- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino logo"> Binary Clock
 
 ## 🤔 I’m looking for help with
 Solutions to keep track of my card collection 🤔
