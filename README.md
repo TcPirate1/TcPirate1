@@ -23,8 +23,6 @@ Solutions to keep track of my card collection 🤔
 
 ## 📫 How to reach me:
 
-<a href="https://trailblazer.me/id/terencedchen" target="_blank"><img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Trailblazer Profile" height="30" /></a>
-<a href="https://www.reddit.com/user/Lack0frecipes" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30" /></a>
 <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="Linkedin Profile" height="30" /></a>
 
 <a href="https://stackoverflow.com/users/22069618/tc-neva" target="_blank"><img src="https://stackoverflow.com/users/flair/22069618.png?theme=clean" width="208" height="58" alt="profile for TC_neva at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for TC_neva at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
