@@ -11,14 +11,11 @@ I graduated from Whitecliffe College and reside in Christchurch, New Zealand.
 
 ## 🔭 Personal Projects
 - [News Aggregate Website](https://github.com/TcPirate1/Newsly)
+- Python Finance App
 
-## 🤔 I’m looking for help with
-Solutions to keep track of my card collection 🤔
-
-## 🌱 I’m currently learning:
-- GUI development using <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp logo"/>
-- Databases with <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"/> & <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"/>
-- Manjaro OS <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/>
+## What I use:
+- VScode <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode icon"/>
+- Manjaro OS <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro logo"/> & Windows OS <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows logo"/>
 - GIT and GitHub <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/> & <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"/>
 
 ## 📫 How to reach me:
