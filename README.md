@@ -10,9 +10,7 @@ I graduated from Whitecliffe College and reside in Christchurch, New Zealand.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🔭 Personal Projects
-- [C# app to help me manage my card collection](https://github.com/TcPirate1/FFTCG_collection)
-- [MHA card game website](https://github.com/TcPirate1/UVS_mha)
-- [Flutter app that reads card and saves data to database](https://github.com/TcPirate1/flutter_ML)
+- [News Aggregate Website](https://github.com/TcPirate1/Newsly)
 
 ## 🤔 I’m looking for help with
 Solutions to keep track of my card collection 🤔
