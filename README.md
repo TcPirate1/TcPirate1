@@ -10,8 +10,6 @@ I graduated from Whitecliffe College and reside in Christchurch, New Zealand.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TcPirate1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🔭 Personal Projects
-- [News Aggregate Website](https://github.com/TcPirate1/Newsly)
-- Python Finance App
 
 ## What I use:
 - <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode icon"/>
