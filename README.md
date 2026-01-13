@@ -25,6 +25,8 @@ OS: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge
 
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="rss"/> to keep up to date with news.
 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="rasp pi"> server.
+
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/terence-dongxu-chen" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="Linkedin Profile" height="30" /></a>
